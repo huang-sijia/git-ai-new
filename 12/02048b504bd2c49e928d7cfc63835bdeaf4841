@@ -1,0 +1,23 @@
+install.sh
+  1055e983cfc90d6a 8,85-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.3",
+  "base_commit_sha": "1202048b504bd2c49e928d7cfc63835bdeaf4841",
+  "prompts": {
+    "1055e983cfc90d6a": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "189b4cb9-2683-4f8a-980f-e513a3150493",
+        "model": "default"
+      },
+      "human_author": "sijia.huang",
+      "messages": [],
+      "total_additions": 49,
+      "total_deletions": 19,
+      "accepted_lines": 3,
+      "overriden_lines": 7
+    }
+  }
+}
